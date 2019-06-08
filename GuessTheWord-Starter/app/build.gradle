@@ -53,6 +53,9 @@ dependencies {
     // KTX
     implementation 'androidx.core:core-ktx:1.0.1'
 
+    //ViewModel
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
+
     // Navigation
     implementation "android.arch.navigation:navigation-fragment-ktx:1.0.0"
     implementation "android.arch.navigation:navigation-ui-ktx:1.0.0"
